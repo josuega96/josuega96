@@ -1,4 +1,4 @@
-# Josué Guzmán Arpasi
+# Josue Guzman
 
 **Planeamiento, costos y control de proyectos, con herramientas propias en Python y JavaScript.**
 
