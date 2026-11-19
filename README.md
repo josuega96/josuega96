@@ -21,14 +21,4 @@ Trabajo entre la ingeniería y el software: planes de minado, cronogramas, metra
 - **Formalización minera:** planes de minado, IGAFOM y planes ambientales para pequeña minería.
 - **Planeamiento minero** de corto y mediano plazo en operación subterránea.
 
-## Herramientas
 
-- **Ingeniería:** AutoCAD, metrados y presupuestos, planes de minado, NPV Scheduler.
-- **Software y datos:** Python (pandas, scikit-learn, Flask, Playwright), JavaScript y TypeScript (React), Git.
-- **En formación:** Excel avanzado, MS Project, Primavera P6, S10, Power BI y SQL.
-
-## Formación
-
-- Ingeniero de Minas, Universidad Nacional del Altiplano (2026).
-- Ingeniería Civil en curso, Universidad Autónoma del Perú.
-- Bootcamp Data Science, Tecsup (192 h, 2026).
