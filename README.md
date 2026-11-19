@@ -1,7 +1,7 @@
 # Josué Guzmán Arpasi
 
-**Ingeniero de Minas (CIP 409126) · Estudiante de Ingeniería Civil (UAP, 6.º ciclo)**
-Planeamiento, costos y control de proyectos, con herramientas propias en Python y JavaScript.
+**Planeamiento, costos y control de proyectos, con herramientas propias en Python y JavaScript.**
+
 
 📍 Lima, Perú · ✉️ josue.ga96@gmail.com
 
